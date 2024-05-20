@@ -55,3 +55,6 @@ void dokter ::cetakPasien(){
 }  
 
 
+int main(){
+    
+}

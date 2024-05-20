@@ -3,6 +3,7 @@
 
 class ibu
 {
-    
+public:
+
 };
 #endif
